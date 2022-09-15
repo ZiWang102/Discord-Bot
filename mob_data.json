@@ -1,0 +1,46 @@
+{
+  "goblin":
+    {
+      "hp": 10,
+      "level_min": 1,
+      "level_max": 5,
+      "int": 1,
+      "str": 3,
+      "dex": 3,
+      "attack_skill": "Slash",
+      "special_skill": "Goblin War Cry"
+    },
+  "trent":
+      {
+        "hp": 15,
+        "level_min": 5,
+        "level_max": 10,
+        "int": 5,
+        "str": 3,
+        "dex": 1,
+        "attack_skill": "Summon Vines",
+        "special_skill": "Barb Shield"
+      },
+  "wolves":
+      {
+        "hp": 13,
+        "level_min": 3,
+        "level_max": 6,
+        "int": 3,
+        "str": 6,
+        "dex": 6,
+        "attack_skill": "Bite",
+        "special_skill": "Howl"
+      },
+  "Orge":
+      {
+        "hp": 25,
+        "level_min": 5,
+        "level_max": 15,
+        "int": 1,
+        "str": 12,
+        "dex": 4,
+        "attack_skill": "Clobber",
+        "special_skill": "Block"
+      }
+}
